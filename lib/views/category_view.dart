@@ -7,13 +7,15 @@ class CategoryView extends StatelessWidget {
   final String categoryName;
   @override
   Widget build(BuildContext context) {
-    return  Scaffold(
-      appBar: PreferredSize(
-          preferredSize: Size(double.infinity, 60),
-          child: CustomAppBar(
-            title:categoryName ,
-          )),
-      body: CategoryViewBody(categoryName:categoryName ,),
+    return  SafeArea(
+      child: Scaffold(
+        appBar: PreferredSize(
+            preferredSize: Size(double.infinity, 60),
+            child: CustomAppBar(
+              title:categoryName ,
+            )),
+        body: CategoryViewBody(categoryName:categoryName ,),
+      ),
     );
   }
 }
