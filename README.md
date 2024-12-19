@@ -18,7 +18,14 @@
 - **Dio**: For fast and efficient API requests.
 - **Cached Network Image**: Handles image caching to enhance performance.
 - **URL Launcher**: Enables external link redirection to news sources.
+## Screenshots
 
+<p align="center">
+  <img src="./screenshots/general_articles.jpg" alt="General News" width="24%" />
+  <img src="./screenshots/sport_articles.jpg" alt="Sport News" width="24%" />
+  <img src="./screenshots/technology_articles.jpg" alt="technology News" width="24%" />
+ 
+</p>
 ---
 ## 🚀 **Getting Started**
 
