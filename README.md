@@ -26,6 +26,8 @@
   <img src="./screenshots/technology_articles.jpg" alt="technology News" width="24%" />
  
 </p>
+
+
 ## 🚀 **Getting Started**
 
 ### Prerequisites
@@ -35,7 +37,7 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/news_app.git
+   git clone https://github.com/AbderraoufBelaiouar/news_app.git
 2. Update the dependencies
    ```bash
    flutter pub get
