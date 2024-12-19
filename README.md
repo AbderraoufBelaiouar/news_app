@@ -26,7 +26,6 @@
   <img src="./screenshots/technology_articles.jpg" alt="technology News" width="24%" />
  
 </p>
----
 ## 🚀 **Getting Started**
 
 ### Prerequisites
